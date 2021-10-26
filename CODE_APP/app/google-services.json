@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068681754747",
+    "project_id": "homeenergy-430ac",
+    "storage_bucket": "homeenergy-430ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068681754747:android:aa760a63dd4a4a10234ade",
+        "android_client_info": {
+          "package_name": "com.example.homeenergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068681754747-jqr3ftc0lpk29rg3udrmd75f548vjqhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNyYLUIW9bOiBinH08-adRvrobR-m94FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068681754747-jqr3ftc0lpk29rg3udrmd75f548vjqhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
